@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: green;
+    color: white;
+    text-align: center;
+padding: 50px 15px;
+}
+.title {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img img {
+    width: 400px;
+    height: 200px;
+}
+.malumot {
+    font-size: 19px;
+}
+/* Biz bilan bog;laning */
+.boglanish {
+    background-color:rgba(128, 128, 128, 0.432) ;
+    margin-top: 15px;
+    padding: 20px;
+}
+.form {
+}
+.form-title {
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+.input {
+   display: block;
+   margin-bottom: 15px;
+   width: 300px;
+   padding: 8px 13px;
+    border-radius: 10px;
+    border: 0;
+}
+.textarea {
+    display: block;
+    width: 300px;
+    padding: 8px 13px;
+    border-radius: 10px;
+    border: 0;
+    margin-bottom: 16px;
+}
+.btn {
+    width: 150px;
+    padding: 6px 8px;
+    border-radius: 10px;
+    border: 0;
+    background-color: rgb(59, 113, 131);
+    color: aliceblue;
+}
+/* jamoa qism */
+.jamoa {
+    text-align: center;
+    padding: 11px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.jamoa-title {
+    font-size: 35px;
+    margin-bottom: 40px;
+}
+table{
+    
+    padding: 30px;
+    width: 100%;
+    margin: 30px 0;
+
+}
+table th{
+    padding: 12px;
+    background-color: brown;
+    color: white;
+}
+ table td{
+    padding: 12px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.329);
+ }
+ /* manzil */
+ .xarita {
+    width: 100%;
+ }
